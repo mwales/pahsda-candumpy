@@ -14,3 +14,5 @@ I've included the CAN dump that was part of the CTF.  I don't even remember
 what the point of the challenge was at this point, but I can now load the
 dump file into PAHSDA.
 
+![Screenshot](Screenshot.png)
+
