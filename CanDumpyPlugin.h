@@ -49,4 +49,4 @@ protected:
    QList<CanFrame*> theFrames;
 };
 
-#endif // DUML_LITE_FRAME_FACTORY_H
+#endif // CAN_DUMPY_FRAME_FACTORY_H

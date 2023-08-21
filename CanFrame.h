@@ -4,7 +4,7 @@
 #include "DataFrame.h"
 
 /**
- * Will divide the DUML framed data into different fields for easy viewing and sorting
+ * Will divide the CAN framed data into different fields for easy viewing and sorting
  */
 class CanFrame : public DataFrame
 {
@@ -21,8 +21,6 @@ public:
    //const int CAN_DL = 6;
 
    const int CAN_DATA = 1;
-
-   const int CAN_DATA_ASCII = 2;
 
    //const int CAN_CRC = 8;
    //const int CAN_CRC_DELIMITER = 9;
